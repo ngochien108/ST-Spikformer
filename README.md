@@ -1,2 +1,11 @@
 # ST-Spikformer
-Cao, Hien N., Thanh V. Vu, Hanh TM Tran, and Khoa TD Phan. "Spatio-Temporal Spiking Transformer for Epileptic Seizure Detection on EEG Signals." In 2026 11th International Conference on Applying New Technology in Green Buildings (ATiGB), pp. 1854-1859. IEEE, 2026.
+This repository contains the implementation of our paper:"Spatio-Temporal Spiking Transformer for Epileptic Seizure Detection on EEG Signals."
+If you find this work useful in your research, please consider citing our paper:
+@inproceedings{
+  title={Spatio-Temporal Spiking Transformer for Epileptic Seizure Detection on EEG Signals},
+  author={Cao, Hien N. and Vu, Thanh V. and Tran, Hanh TM and Phan, Khoa TD},
+  booktitle={2026 11th International Conference on Applying New Technology in Green Buildings (ATiGB)},
+  pages={1854--1859},
+  year={2026},
+  organization={IEEE}
+}
